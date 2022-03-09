@@ -39,8 +39,7 @@ for (let i = 0; i > bigOrSmallArray.length; i++) {
 answersArr += 1
 if (answersArr > 100){
   console.log('big')
-  else (answersArr <= 100){
+}  else (answersArr <= 100){
     console.log('small')
   }
-}
 }
